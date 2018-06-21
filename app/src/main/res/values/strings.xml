@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TvVerify</string>
+    <string name="check_ip_error">Ip地址校验失败</string>
+    <string name="retry_network">重新配置网络</string>
+</resources>
